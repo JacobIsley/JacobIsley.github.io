@@ -3,6 +3,7 @@
 ### About Me
 My name is Jake Isley and I am a Computer Science student at Colorado State University.
 
+/*
 ```markdown
 Syntax highlighted code block
 
@@ -20,7 +21,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+*/
 ### Skills and Tools
 -Proficient in Java programming
 
