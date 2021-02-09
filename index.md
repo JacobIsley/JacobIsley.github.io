@@ -1,4 +1,4 @@
-## Welcome to my website!
+## Computer Science
 
 ### About Me
 My name is Jake Isley and I am a Computer Science student at Colorado State University.
@@ -26,5 +26,7 @@ Syntax highlighted code block
 ### Contact Information
 
 [My Linkedin page](https://www.linkedin.com/in/jacobrussellisley/).
+---
 [My Itch.io page](https://jaypegfile.itch.io/).
+---
 Direct contact at jisley10@comcast.net
