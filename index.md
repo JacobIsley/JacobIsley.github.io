@@ -1,4 +1,4 @@
-## Computer Science
+## Welcome to my Website!
 
 ### About Me
 My name is Jake Isley and I am a Computer Science student at Colorado State University.
