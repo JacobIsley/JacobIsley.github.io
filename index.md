@@ -21,7 +21,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Header
+### Skills and Tools
+-Proficient in Java programming
+-Learning Python, GDscript, and JavaScript
+-Proficient in Microsoft Word, Intellij, and Eclipse
 
 ### Contact Information
 
