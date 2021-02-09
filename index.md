@@ -26,7 +26,7 @@ Syntax highlighted code block
 ### Contact Information
 
 [My Linkedin page](https://www.linkedin.com/in/jacobrussellisley/).
----
+- - -
 [My Itch.io page](https://jaypegfile.itch.io/).
----
+- - -
 Direct contact at jisley10@comcast.net
