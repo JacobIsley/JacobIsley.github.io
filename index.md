@@ -23,7 +23,9 @@ Syntax highlighted code block
 
 ### Skills and Tools
 -Proficient in Java programming
+
 -Learning Python, GDscript, and JavaScript
+
 -Proficient in Microsoft Word, Intellij, and Eclipse
 
 ### Contact Information
